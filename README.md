@@ -3,4 +3,4 @@ Learning functional programming by doing exercises from Hackerrank platform (htt
 
 | Index               |  Name               |  Description                                                                    | Solution                           |
 | ------------------- | ------------------- | -----------------------------------------------------------------------------   | ---------------------------------- |
-|  01                 |  Solve Me First FP  | https://www.hackerrank.com/challenges/fp-solve-me-first/problem                 |                                    |      
+|  01                 |  Solve Me First FP  | https://www.hackerrank.com/challenges/fp-solve-me-first/problem                 | [Solution](https://github.com/renatojsilvas/clojure-hackerrank/blob/main/src/solve-me-first-FP.clj)                                     |      
